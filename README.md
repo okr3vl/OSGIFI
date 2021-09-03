@@ -1,2 +1,49 @@
-# OSGIFI
-[OSGIFI] - INFORMATION GATHERING TOOL, FROM INSTAGRAM ACCOUNTS.
+## OSGIFI
+THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FOR EXAMPLE:
+
+Full Name              
+Verified Account Or Not
+Private Account Or Not
+Number Of Follower
+Number Of Posts
+Number Of Tag In Posts
+Website URL
+Number Of IGTV Posts
+Biography
+Public E-mail
+Public Number
+Hidden E-mail
+Hidden Number
+>> In The Last Profile Picture Link.
+
+## 💡 Prerequisite
+[Python 3](https://www.python.org/downloads/release/python-370/)
+
+## Installation
+### PyPI :
+
+```pip install toutatis```
+
+### Github :
+
+```bash
+git clone https://github.com/okr3vl/OSGIFI.git
+cd toutatis/
+python3 SetUp.py install
+```
+
+## 📈 Usage:
+
+```
+OSGIFI -u username -s instagramsessionid
+```
+
+## To retrieve the sessionID
+![](https://lh3.googleusercontent.com/proxy/ADpgW3ne93UnLTO2ls1CUNOR7yqSoLDcpPTYeapX-cf317N2UMzLOqWZdO4OWX2SMPylViBVeZcqf1_rtuZoxC5Yzk2sLBAM-duX_HCrXmsOgnqhYJIj5YWiCUOWCQ)
+
+## Connect with okr3vl :
+
+<p align="left">
+<a href="https://twitter.com/OKrevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OKrevl" height="30" width="40" /></a>
+<a href="https://instagram.com/ussvmv_krevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ussvmv_krevl" height="30" width="40" /></a>
+</p>
