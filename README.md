@@ -16,7 +16,7 @@ THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FO
 - [x] Hidden Number
 - [x] In The Last Profile Picture Link.
 
-## 💡 Prerequisite
+## Requirements:
 [Python 3](https://www.python.org/downloads/release/python-397/)
 
 ## Installation
@@ -38,10 +38,10 @@ python3 SetUp.py install
 OSGIFI -u username -s instagramsessionid
 ```
 
-## To retrieve the sessionID
+## To Retrieve The SessionID:
 ![](https://lh3.googleusercontent.com/proxy/ADpgW3ne93UnLTO2ls1CUNOR7yqSoLDcpPTYeapX-cf317N2UMzLOqWZdO4OWX2SMPylViBVeZcqf1_rtuZoxC5Yzk2sLBAM-duX_HCrXmsOgnqhYJIj5YWiCUOWCQ)
 
-## Connect with okr3vl :
+## Connect With okr3vl:
 
 <p align="left">
 <a href="https://twitter.com/OKrevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OKrevl" height="30" width="40" /></a>
