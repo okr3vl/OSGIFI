@@ -1,19 +1,19 @@
 ## OSGIFI
 THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FOR EXAMPLE:
 
-Full Name              
-Verified Account Or Not
-Private Account Or Not
-Number Of Follower
-Number Of Posts
-Number Of Tag In Posts
-Website URL
-Number Of IGTV Posts
-Biography
-Public E-mail
-Public Number
-Hidden E-mail
-Hidden Number
+- [x] Full Name              
+- [x] Verified Account Or Not
+- [x] Private Account Or Not
+- [x] Number Of Follower
+- [x] Number Of Posts
+- [x] Number Of Tag In Posts
+- [x] Website URL
+- [x] Number Of IGTV Posts
+- [x] Biography
+- [x] Public E-mail
+- [x] Public Number
+- [x] Hidden E-mail
+- [x] Hidden Number
 >> In The Last Profile Picture Link.
 
 ## 💡 Prerequisite
