@@ -17,7 +17,7 @@ THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FO
 - [x] In The Last Profile Picture Link.
 
 ## 💡 Prerequisite
-[Python 3](https://www.python.org/downloads/release/python-370/)
+[Python 3](https://www.python.org/downloads/release/python-397/)
 
 ## Installation
 ### PyPI :
