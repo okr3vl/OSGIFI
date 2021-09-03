@@ -14,7 +14,7 @@ THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FO
 - [x] Public Number
 - [x] Hidden E-mail
 - [x] Hidden Number
->> In The Last Profile Picture Link.
+- [x] In The Last Profile Picture Link.
 
 ## 💡 Prerequisite
 [Python 3](https://www.python.org/downloads/release/python-370/)
