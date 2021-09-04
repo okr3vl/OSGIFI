@@ -42,7 +42,7 @@ OSGIFI -u username -s instagramsessionid
 ```
 
 ## :zap: To Retrieve The SessionID:
-<p align="center"><img src="https://i.im.ge/2021/09/05/QSBozm.png"/></p>
+<p align="center"><img src="https://i.im.ge/2021/09/05/QSBxBp.png"/></p>
 
 ## <p align="center"> Connect With okr3vl: </p>
 
