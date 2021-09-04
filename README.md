@@ -1,6 +1,6 @@
 ## OSGIFI
 
-<p align="center">[![](https://i.im.ge/2021/09/04/QSgbrJ.png)](https://im.ge/i/QSgbrJ)</p>
+[![](https://i.im.ge/2021/09/04/QSgbrJ.png)](https://im.ge/i/QSgbrJ)
 
 THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FOR EXAMPLE:
 
