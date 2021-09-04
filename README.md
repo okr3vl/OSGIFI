@@ -9,10 +9,9 @@
   \  \:\  /:/   \  \::/ /:/   \  \:\  /:/      \__\::/  \  \::/        \__\::/
    \  \:\/:/     \__\/ /:/     \  \:\/:/       /__/:/    \  \:\        /__/:/ 
     \  \::/        /__/:/       \  \::/        \__\/      \  \:\       \__\/  
-     \__\/         \__\/         \__\/                     \__\/
-     
-                               [ By: @okr3vl ]
-                                        
+     \__\/         \__\/         \__\/                     \__\/              
+
+
 THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FOR EXAMPLE:
 
 - [x] Full Name              
