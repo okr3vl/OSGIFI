@@ -1,6 +1,6 @@
 ## :zap: OSGIFI
 
-<p align="center"><img src="https://i.im.ge/2021/09/04/QSgbrJ.png"/></p>
+<p align="center"><img src="https://i.im.ge/2021/09/05/QSBTtf.png"/></p>
 
 **THIS TOOL PERMIT YOU TO DISCOVERING & GATHERING INFO FROM INSTAGRAM ACCOUNTS, FOR EXAMPLE:**
 
@@ -42,7 +42,7 @@ OSGIFI -u username -s instagramsessionid
 ```
 
 ## :zap: To Retrieve The SessionID:
-<p align="center"><img src="https://lh3.googleusercontent.com/proxy/ADpgW3ne93UnLTO2ls1CUNOR7yqSoLDcpPTYeapX-cf317N2UMzLOqWZdO4OWX2SMPylViBVeZcqf1_rtuZoxC5Yzk2sLBAM-duX_HCrXmsOgnqhYJIj5YWiCUOWCQ"/></p>
+<p align="center"><img src="https://i.im.ge/2021/09/05/QSBozm.png"/></p>
 
 ## <p align="center"> Connect With okr3vl: </p>
 
