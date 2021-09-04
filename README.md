@@ -47,6 +47,6 @@ OSGIFI -u username -s instagramsessionid
 ## <p align="center"> Connect With okr3vl: </p>
 
 <p align="center">
-<a href="https://twitter.com/OKrevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OKrevl" height="30" width="40" /></a>
+<a href="https://twitter.com/okr3vl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OKrevl" height="30" width="40" /></a>
 <a href="https://instagram.com/ussvmv_krevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ussvmv_krevl" height="30" width="40" /></a>
 </p>
