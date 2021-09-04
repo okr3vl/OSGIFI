@@ -14,7 +14,7 @@ colorama.init(autoreset=True)
 
 def getUserId(username,sessionsId):
     cookies = {'sessionid': sessionsId}
-    headers = {'User-Agent': 'Instagram 64.0.0.14.96',}
+    headers = {'User-Agent': 'Instagram 203.0.0.29.118',}
     r = get('https://www.instagram.com/{}/?__a=1'.format(username),headers=headers, cookies=cookies)
     try:
         info = json.loads(r.text)
@@ -29,7 +29,7 @@ def getInfo(username,sessionId):
         return({"user":None,"error":"User not found or rate limit"})
     else:
         cookies = {'sessionid': sessionId}
-        headers = {'User-Agent': 'Instagram 64.0.0.14.96',}
+        headers = {'User-Agent': 'Instagram 203.0.0.29.118',}
         response = get('https://i.instagram.com/api/v1/users/'+userId["id"]+'/info/', headers=headers, cookies=cookies)
         info = json.loads(response.text)
         infoUser = info["user"]
