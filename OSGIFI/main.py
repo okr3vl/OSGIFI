@@ -1,5 +1,3 @@
-########### WHAT ARE YOU LOOKING FOR ? ###########
-
 import os
 import requests
 import sys
