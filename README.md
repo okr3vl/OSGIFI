@@ -25,13 +25,13 @@
 ## 📈 Installation:
 ### **PyPI :**
 
-```pip install toutatis```
+```pip install OSGIFI```
 
 ### **Github :**
 
 ```bash
 git clone https://github.com/okr3vl/OSGIFI.git
-cd toutatis/
+cd OSGIFI/
 python3 SetUp.py install
 ```
 
